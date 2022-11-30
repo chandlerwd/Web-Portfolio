@@ -67,6 +67,7 @@ div {
   width: 75px;
   display: block;
   text-align: center;
+  transform: translateY(-6px)
 }
 .nav_bar ul li a:hover {
   text-decoration: none;
